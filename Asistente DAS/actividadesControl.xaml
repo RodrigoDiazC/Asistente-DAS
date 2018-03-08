@@ -1,0 +1,139 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Asistente_DAS"
+             xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Name="userControl" x:Class="Asistente_DAS.actividadesControl"
+             mc:Ignorable="d" Width="285.5" MouseEnter="userControl_MouseEnter" MouseLeave="userControl_MouseLeave" MouseDown="userControl_MouseDown" HorizontalAlignment="Center" VerticalAlignment="Center" Height="180" Cursor="Hand">
+    <UserControl.Resources>
+        <Storyboard x:Key="an_New">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Height)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="57"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="57"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="285.5">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <CircleEase EasingMode="EaseInOut"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="stackPanel">
+                <EasingColorKeyFrame KeyTime="0" Value="#FFDA9E00"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="an_Enter">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="285.5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button_Eliminar">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button_Tiempo">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-24.319"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button_Tiempo">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="an_Select">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Height)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="56.6"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="180"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="285.5"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="285.5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button_Eliminar">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="an_nonSelect">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Height)" Storyboard.TargetName="userControl">
+                <SplineDoubleKeyFrame KeyTime="0" Value="180"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="56.6"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="userControl">
+                <SplineDoubleKeyFrame KeyTime="0" Value="285.5"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="285.5"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="an_Secondary">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button_Eliminar">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="userControl">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="stackPanel">
+                <EasingColorKeyFrame KeyTime="0:0:0.5" Value="#FF1B7495"/>
+            </ColorAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button_Tiempo">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid x:Name="grid" Height="180" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Width="285.5" Margin="0" >
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid x:Name="stackPanel" Background="#FF114568" Height="180" >
+            <TextBox x:Name="textBox_Proyecto" Text="Nuevo Proyecto" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" BorderThickness="0" MaxWidth="250" FontSize="16" Padding="0" Margin="10.001,5,25.165,0" VerticalAlignment="Top" d:LayoutOverrides="TopMargin, BottomMargin" HorizontalAlignment="Left"/>
+            <TextBox x:Name="textBox_Actividad" Text="Nueva Actividad" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" BorderThickness="0" MaxWidth="250" FontSize="16" Padding="0" Margin="10,31.28,10,0" VerticalAlignment="Top" d:LayoutOverrides="LeftMargin, RightMargin" HorizontalAlignment="Left"/>
+            <TextBox x:Name="textBox_Obs" TextWrapping="Wrap" Text="Observaciones" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" BorderThickness="0" MaxWidth="250" HorizontalAlignment="Left" FontSize="14" Padding="0" IsReadOnly="True" Margin="10,62.56,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBox_Observaciones" TextWrapping="Wrap" Background="#33000000" Foreground="White" BorderBrush="{x:Null}" BorderThickness="0" FontSize="16" Padding="0" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Center" Width="265.5" Margin="10,86.18,10,10"/>
+            <Grid x:Name="Grid_Tiempo" Margin="35.5,37.453,33,35.367" Background="#E56C6C6C" Visibility="Hidden">
+                <TextBlock Margin="10,10,90.43,0" TextWrapping="Wrap" Text="Cambiar tiempo" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+                <TextBlock Margin="10,74.01,0,0" TextWrapping="Wrap" Text="Hora          :" HorizontalAlignment="Left" Width="78.07" Foreground="White" Height="21" VerticalAlignment="Top" FontSize="14"/>
+                <TextBox x:Name="TextBox_Hora" Margin="52.07,74.01,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" Width="25" Text="12" Height="21" VerticalAlignment="Top" FontSize="14"/>
+                <TextBlock Margin="11,38.1,0,0" TextWrapping="Wrap" Text="Día" HorizontalAlignment="Left" Width="22.07" Foreground="White" Height="15.58" VerticalAlignment="Top" FontSize="14"/>
+                <TextBox x:Name="TextBox_Minutos" Margin="83.57,74.01,108.43,0" TextWrapping="Wrap" Text="12" Height="21" VerticalAlignment="Top" FontSize="14"/>
+                <ComboBox x:Name="ComboBox_Dia" Margin="52.07,38.1,76.43,0" Height="20.96" VerticalAlignment="Top">
+                    <ComboBoxItem Content="Domingo"/>
+                    <ComboBoxItem Content="Lunes"/>
+                    <ComboBoxItem Content="Martes"/>
+                    <ComboBoxItem Content="Miercoles"/>
+                    <ComboBoxItem Content="Jueves"/>
+                    <ComboBoxItem Content="Viernes"/>
+                    <ComboBoxItem Content="Sabado"/>
+                </ComboBox>
+                <Button x:Name="Button_CambiarTiempo" Content="Aceptar" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="61" Height="22.013" Background="{x:Null}" Foreground="White" Click="Button_CambiarTiempo_Click"/>
+            </Grid>
+        </Grid>
+        <Button x:Name="button_Eliminar" Content="" HorizontalAlignment="Right" Width="18" VerticalAlignment="Top" Height="18" BorderThickness="0" Cursor="Hand" Click="button_Eliminar_Click" Opacity="0" Padding="0" RenderTransformOrigin="0.509,0.407" d:LayoutOverrides="VerticalAlignment" Margin="0,6,6,0" ToolTip="Borrar actividad">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/Borrar.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button_Tiempo" Content="" VerticalAlignment="Top" Height="18" BorderThickness="0" Cursor="Hand" Opacity="0" Padding="0" RenderTransformOrigin="0.509,0.407" Margin="0,34.698,-18,0" d:LayoutOverrides="VerticalAlignment" HorizontalAlignment="Right" Width="18" Click="button_Tiempo_Click" ToolTip="Editar tiempo">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="icons8-Unchecked Circle Filled-50 (1).png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</UserControl>

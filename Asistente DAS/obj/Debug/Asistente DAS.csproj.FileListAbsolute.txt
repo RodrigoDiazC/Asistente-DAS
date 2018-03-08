@@ -1,0 +1,429 @@
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe.config
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.pdb
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.g.cs
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\App.g.cs
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.cache
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.lref
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.baml
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.g.resources
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.exe
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.pdb
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\mirod\documents\visual studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe.config
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.exe
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.pdb
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.pdb
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.lref
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.g.resources
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS\Asistente DAS\Asistente DAS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe.config
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.exe
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.pdb
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.exe
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Asistente DAS.pdb
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.lref
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.g.resources
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Asistente DAS.exe.config
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.exe
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.pdb
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Asistente DAS.exe
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Asistente DAS.pdb
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.cache
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS_MarkupCompile.lref
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.g.resources
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\mirod\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.ResolveComReference.cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.ResolveComReference.cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.settings
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe.config
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.pdb
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.cache
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.lref
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.g.resources
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.exe
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.pdb
+C:\Users\Rodrigo Diaz\Documents\Visual Studio 2015\Projects\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.settings
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe.config
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.pdb
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.ResolveComReference.cache
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.cache
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.lref
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.g.resources
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.exe
+C:\Users\mirod\Desktop\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.pdb
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\Properties\Settings.settings
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe.config
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.exe
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\bin\Debug\AsistenteDAS.pdb
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.cache
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.lref
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.g.resources
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.exe
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\AsistenteDAS.pdb
+C:\Users\Rodrigo Diaz\Downloads\Asistente DAS Experimento\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\Properties\Settings.settings
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\AsistenteDAS.exe.config
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\AsistenteDAS.exe
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\AsistenteDAS.pdb
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.ResolveComReference.cache
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.cache
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.lref
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS.g.resources
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS.exe
+C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS.pdb
