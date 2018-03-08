@@ -132,7 +132,7 @@
                 </TransformGroup>
             </Button.RenderTransform>
             <Button.Background>
-                <ImageBrush ImageSource="icons8-Unchecked Circle Filled-50 (1).png" Stretch="Uniform"/>
+                <ImageBrush ImageSource="Imagenes/icons8-Unchecked Circle Filled-50 (1).png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
     </Grid>
