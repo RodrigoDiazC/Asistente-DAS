@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons8-unchecked%20circle%20filled-50%20(1).png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons8-secured-letter-filled-50.png")]
 
 

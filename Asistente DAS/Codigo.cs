@@ -225,8 +225,14 @@ namespace Asistente_DAS
             }
         }
 
-        //--- Abre carpeta donde se guarda el documento
-        private void button_Carpeta_Click(object sender, RoutedEventArgs e)
+        //---- Adjunta archivo a documento en Outlook        
+        private void button_Email_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+    //--- Abre carpeta donde se guarda el documento
+    private void button_Carpeta_Click(object sender, RoutedEventArgs e)
         {
             System.Diagnostics.Process.Start("explorer", Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\DAS");
         }

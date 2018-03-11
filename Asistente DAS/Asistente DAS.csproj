@@ -262,6 +262,9 @@
   <ItemGroup>
     <Resource Include="Imagenes\icons8-Unchecked Circle Filled-50 %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\icons8-secured-letter-filled-50.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

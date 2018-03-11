@@ -67,6 +67,7 @@ namespace Asistente_DAS
     /// </summary>
     public partial class MainWindow : Window
     {
+        //---- Efecto BLUR
         [DllImport("user32.dll")]
         internal static extern int SetWindowCompositionAttribute(IntPtr hwnd, ref WindowCompositionAttributeData data);
 
@@ -75,7 +76,6 @@ namespace Asistente_DAS
 
         //---- Preferencias
         private string nombre_Usuario = "Nombre de Usuario";
-
         private string nombre_Gerente = "Nombre de Gerente";
         private int notificaciones_modo = 0;
         private bool recordatorio_activo = false;
@@ -107,7 +107,7 @@ namespace Asistente_DAS
 
             //-------------------------------------------------------- Inicializa timer
             timersSettup();
-        
+
         }
 
         //---- Habilita el efecto BLUR
@@ -125,7 +125,7 @@ namespace Asistente_DAS
 
         //-------------------------------------------------------------------------- Botones
 
-        //---- Nueva actividad
+        //---- Nueva actividad TODO Cambiar nombre acorde al nombre del boton y considerar moverlo a Codigo.cs
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             //---- Añade la etiqueta de "Hoy Día, Semana"
@@ -152,7 +152,7 @@ namespace Asistente_DAS
             grid_Actividades.Children.Insert(1, act);
         }
 
-        //---- Genera archivo
+        //---- Genera archivo TODO Cambiar nombre acorde al nombre del boton y considerar moverlo a Codigo.cs
         private void button2_Click(object sender, RoutedEventArgs e)
         {
             generateExcel();
@@ -161,7 +161,7 @@ namespace Asistente_DAS
         //---- Aplica configuraciones
         private void button_ConfAplicar_Click(object sender, RoutedEventArgs e)
         {
-            if (textBox_NombreUsuario.Text.Length < 1 && textBox_NombreUsuario.Text.Length < 1)  return;
+            if (textBox_NombreUsuario.Text.Length < 1 && textBox_NombreUsuario.Text.Length < 1) return;
 
             nombre_Usuario = textBox_NombreUsuario.Text;
             nombre_Gerente = textBox_NombreGerente.Text;
@@ -170,7 +170,7 @@ namespace Asistente_DAS
 
             scroll_actividades.Visibility = Visibility.Visible;
             scroll_Configuracion.Visibility = button_ConfAplicar.Visibility = Visibility.Collapsed;
-            
+
             //--------------------------------------------------------- Fecha de TOP
             DateTime temp = DateTime.Now;
             DateTimeFormatInfo dfi = DateTimeFormatInfo.CurrentInfo;
@@ -256,5 +256,3 @@ namespace Asistente_DAS
         }
     }
 }
-
-// TODO Agregar carpeta en Mis Documentos "DAS"
