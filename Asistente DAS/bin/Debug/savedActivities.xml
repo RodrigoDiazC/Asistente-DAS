@@ -1,2 +1,15 @@
 <?xml version="1.0"?>
-<ArrayOfActividadesSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfActividadesSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ActividadesSheet>
+    <Proyecto>Nuevo Proyecto</Proyecto>
+    <Actividad>Nueva Actividad</Actividad>
+    <Observaciones />
+    <Inicio>2018-03-11T20:29:30.4334967-06:00</Inicio>
+  </ActividadesSheet>
+  <ActividadesSheet>
+    <Proyecto>Nuevo Proyecto</Proyecto>
+    <Actividad>Nueva Actividad</Actividad>
+    <Observaciones />
+    <Inicio>2018-03-11T20:29:41.7846149-06:00</Inicio>
+  </ActividadesSheet>
+</ArrayOfActividadesSheet>

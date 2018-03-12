@@ -116,7 +116,6 @@ namespace Asistente_DAS
                 oXL.Visible = false;    //Para que no abra la ventana de excel
                 oXL.DisplayAlerts = false;
                
-
                 //--- Abre el archivo
                 mWorkBook = oXL.Workbooks.Open(rutaTemplate, 0, false, 5, "", "", false, Microsoft.Office.Interop.Excel.XlPlatform.xlWindows, "", true, false, 0, true, false, false);
 
@@ -206,8 +205,7 @@ namespace Asistente_DAS
                         Missing.Value, Missing.Value, Missing.Value, Missing.Value, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive,
                         Missing.Value, Missing.Value, Missing.Value,
                         Missing.Value, Missing.Value);
-
-                    MessageBox.Show("Reporte generado exitosamente.\n " + rutaNueva);
+                        MessageBox.Show("Reporte generado exitosamente.\n " + rutaNueva);
                 }
                 catch (System.Runtime.InteropServices.COMException ex)
                 {
@@ -222,17 +220,63 @@ namespace Asistente_DAS
                 GC.Collect();
                 GC.WaitForPendingFinalizers();
                 GC.Collect();
+
             }
+
         }
 
         //---- Adjunta archivo a documento en Outlook        
         private void button_Email_Click(object sender, RoutedEventArgs e)
         {
+            BackgroundWorker bw = new BackgroundWorker();
+            Storyboard storyBoard = (Storyboard)this.FindResource("an_Loading");
 
+            string rutaFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\DAS";
+            var directory = new DirectoryInfo(rutaFolder);
+            string file = null;
+            string ruta = null;
+
+            Microsoft.Office.Interop.Outlook.Application oApp = new Microsoft.Office.Interop.Outlook.Application();
+            Microsoft.Office.Interop.Outlook.MailItem oMsg = (Microsoft.Office.Interop.Outlook.MailItem)oApp.CreateItem(Microsoft.Office.Interop.Outlook.OlItemType.olMailItem);
+            
+            //Muestra pantalla de carga
+            grid_PantallaDeCarga.Visibility = Visibility.Visible;
+            grid_Actividades.Visibility = Visibility.Collapsed;
+            storyBoard.Begin();
+
+            //---- Guarda actividades
+            saveList();
+
+            //---- Proceso que se hará en background
+            bw.DoWork += new DoWorkEventHandler(delegate (object o, DoWorkEventArgs args)
+            {
+                excelSaveProcess();
+            });
+
+            //---- Proceso que se hará cuando se termine la tarea
+            bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(delegate (object o, RunWorkerCompletedEventArgs args)
+            {
+                storyBoard.Stop();
+                grid_PantallaDeCarga.Visibility = Visibility.Collapsed;
+                grid_Actividades.Visibility = Visibility.Visible;
+
+                //Encuentra el archivo más nuevo en la carpeta
+                file = directory.GetFiles().OrderByDescending(f => f.LastWriteTime).First().ToString();
+                ruta = rutaFolder + "\\" + file;
+
+                oMsg.Subject = file;
+                oMsg.BodyFormat = Microsoft.Office.Interop.Outlook.OlBodyFormat.olFormatHTML;
+                oMsg.HTMLBody = "Reporte generado con Asistente DAS. Código abierto https://www.github.com/RodrigoDiazC.";
+                oMsg.Attachments.Add(ruta, Microsoft.Office.Interop.Outlook.OlAttachmentType.olByValue, Type.Missing, Type.Missing);
+                oMsg.Display(false);
+
+            });
+
+            bw.RunWorkerAsync();
         }
-
-    //--- Abre carpeta donde se guarda el documento
-    private void button_Carpeta_Click(object sender, RoutedEventArgs e)
+   
+        //--- Abre carpeta donde se guarda el documento
+        private void button_Carpeta_Click(object sender, RoutedEventArgs e)
         {
             System.Diagnostics.Process.Start("explorer", Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\DAS");
         }
@@ -373,6 +417,7 @@ namespace Asistente_DAS
         //---- Tarea en segundo plano para generar archivo de excel
         private void generateExcel()
         {
+
             grid_PantallaDeCarga.Visibility = Visibility.Visible;
             grid_Actividades.Visibility = Visibility.Collapsed;
 
