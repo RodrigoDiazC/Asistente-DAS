@@ -438,26 +438,33 @@ namespace Asistente_DAS
             string file = null;
             string ruta = null;
 
-            Microsoft.Office.Interop.Outlook.Application oApp = new Microsoft.Office.Interop.Outlook.Application();
-            Microsoft.Office.Interop.Outlook.MailItem oMsg = (Microsoft.Office.Interop.Outlook.MailItem)oApp.CreateItem(Microsoft.Office.Interop.Outlook.OlItemType.olMailItem);
+            try
+            {
+                Microsoft.Office.Interop.Outlook.Application oApp = new Microsoft.Office.Interop.Outlook.Application();
+                Microsoft.Office.Interop.Outlook.MailItem oMsg = (Microsoft.Office.Interop.Outlook.MailItem)oApp.CreateItem(Microsoft.Office.Interop.Outlook.OlItemType.olMailItem);
 
-            // Encuentra el archivo más nuevo en la carpeta
-            file = directory.GetFiles().OrderByDescending(f => f.LastWriteTime).First().ToString();
-            ruta = rutaFolder + "\\" + file;
+                // Encuentra el archivo más nuevo en la carpeta
+                file = directory.GetFiles().OrderByDescending(f => f.LastWriteTime).First().ToString();
+                ruta = rutaFolder + "\\" + file;
 
-            // Direcciones
-            oMsg.To = emailTo;
-            oMsg.CC = ccTo;
+                // Direcciones
+                oMsg.To = emailTo;
+                oMsg.CC = ccTo;
 
-            // Sujeto nombre del archivo y adjunta archivo
-            oMsg.Subject = file;
-            oMsg.Attachments.Add(ruta, Microsoft.Office.Interop.Outlook.OlAttachmentType.olByValue, Type.Missing, Type.Missing);
-            
-            // Cuerpo del mensaje
-            oMsg.HTMLBody = "Reporte generado con Asistente DAS. Puedes contribuir a este proyecto de código abierto en: https://github.com/RodrigoDiazC/Asistente-Das.";
+                // Sujeto nombre del archivo y adjunta archivo
+                oMsg.Subject = file;
+                oMsg.Attachments.Add(ruta, Microsoft.Office.Interop.Outlook.OlAttachmentType.olByValue, Type.Missing, Type.Missing);
 
-            oMsg.BodyFormat = Microsoft.Office.Interop.Outlook.OlBodyFormat.olFormatHTML;
-            oMsg.Display(false);
+                // Cuerpo del mensaje
+                oMsg.HTMLBody = "Reporte generado con Asistente DAS. Puedes contribuir a este proyecto de código abierto en: https://github.com/RodrigoDiazC/Asistente-Das.";
+
+                oMsg.BodyFormat = Microsoft.Office.Interop.Outlook.OlBodyFormat.olFormatHTML;
+                oMsg.Display(false);
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show("Ocurrió un error al intentar generar el correo. Asegurate de tener Microsoft Outlook instalado.\n\nError: " + e.Message);
+            }
 
         }
 
