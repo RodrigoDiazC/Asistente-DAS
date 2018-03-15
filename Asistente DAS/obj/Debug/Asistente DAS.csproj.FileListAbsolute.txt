@@ -427,3 +427,61 @@ C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente_DAS.Prope
 C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
 C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS.exe
 C:\Users\mirod\Desktop\Asistente DAS\Asistente DAS\obj\Debug\AsistenteDAS.pdb
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\Properties\Settings.settings
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\AsistenteDAS.exe.config
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\AsistenteDAS.exe
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\AsistenteDAS.pdb
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\Asistente DAS.csprojResolveAssemblyReference.cache
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\Asistente DAS.csproj.ResolveComReference.cache
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\actividadesControl.g.cs
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\MainWindow.g.cs
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\App.g.cs
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.cache
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\AsistenteDAS_MarkupCompile.lref
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\actividadesControl.baml
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\MainWindow.baml
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\AsistenteDAS.g.resources
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\Asistente_DAS.Properties.Resources.resources
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\Asistente DAS.csproj.GenerateResource.Cache
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\Asistente DAS.csproj.CoreCompileInputs.cache
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\AsistenteDAS.exe
+C:\Users\rdiaz\Source\Repos\Asistente-Das\Asistente DAS\obj\Debug\AsistenteDAS.pdb
