@@ -105,9 +105,9 @@
             <StackPanel x:Name="grid_Actividades" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
         </ScrollViewer>
         <Button x:Name="button_ConfAplicar" Content="Aplicar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden" d:IsHidden="True"/>
-        <Grid x:Name="grid_Bienvenida" Margin="0,30,0,36" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Visibility="Hidden" d:IsHidden="True" >
+        <Grid x:Name="grid_Bienvenida" Margin="0,30,0,36" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Visibility="Hidden" >
             <TextBlock x:Name="textBlock_Bienvenida" TextAlignment="Center" Text="¡Bienvenido al Asistente DAS!&#xA;&#xA; El Asistente DAS tiene un objetivo simple: Ayudarte a que jamás vuelvas a olvidar tu reporte de actividades semanal y disminuir tus posibilidades de ser despedido." Margin="10,149.08,10,29" TextWrapping="Wrap" Foreground="#FFFDFDFD" HorizontalAlignment="Center" Width="295" FontSize="14"/>
-            <Button x:Name="button_ConfSiguiente" Content="Continuar" Margin="0,0,170,-36" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" d:LayoutOverrides="VerticalAlignment" Click="button_ConfSiguiente_Click"/>
+            <Button x:Name="button_ConfSiguiente" Content="Continuar" Margin="0,0,168,-36" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfSiguiente_Click"/>
             <Image x:Name="image5" Margin="120,45,120,0" Height="75" VerticalAlignment="Top" Source="logo.ico" RenderTransformOrigin="0.528,-0.169" Width="75"/>
         </Grid>
     </Grid>
