@@ -231,14 +231,6 @@ namespace Asistente_DAS
             BackgroundWorker bw = new BackgroundWorker();
             Storyboard storyBoard = (Storyboard)this.FindResource("an_Loading");
 
-            string rutaFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\DAS";
-            var directory = new DirectoryInfo(rutaFolder);
-            string file = null;
-            string ruta = null;
-
-            Microsoft.Office.Interop.Outlook.Application oApp = new Microsoft.Office.Interop.Outlook.Application();
-            Microsoft.Office.Interop.Outlook.MailItem oMsg = (Microsoft.Office.Interop.Outlook.MailItem)oApp.CreateItem(Microsoft.Office.Interop.Outlook.OlItemType.olMailItem);
-            
             //Muestra pantalla de carga
             grid_PantallaDeCarga.Visibility = Visibility.Visible;
             grid_Actividades.Visibility = Visibility.Collapsed;
@@ -260,15 +252,7 @@ namespace Asistente_DAS
                 grid_PantallaDeCarga.Visibility = Visibility.Collapsed;
                 grid_Actividades.Visibility = Visibility.Visible;
 
-                //Encuentra el archivo más nuevo en la carpeta
-                file = directory.GetFiles().OrderByDescending(f => f.LastWriteTime).First().ToString();
-                ruta = rutaFolder + "\\" + file;
-
-                oMsg.Subject = file;
-                oMsg.BodyFormat = Microsoft.Office.Interop.Outlook.OlBodyFormat.olFormatHTML;
-                oMsg.HTMLBody = "Reporte generado con Asistente DAS. Código abierto https://www.github.com/RodrigoDiazC.";
-                oMsg.Attachments.Add(ruta, Microsoft.Office.Interop.Outlook.OlAttachmentType.olByValue, Type.Missing, Type.Missing);
-                oMsg.Display(false);
+                GenerateEmail("", "");
 
             });
 
@@ -444,6 +428,37 @@ namespace Asistente_DAS
             });
 
             bw.RunWorkerAsync();
+        }
+
+        //---- Genera email
+        public static void GenerateEmail(string emailTo, string ccTo)
+        {
+            string rutaFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\DAS";
+            var directory = new DirectoryInfo(rutaFolder);
+            string file = null;
+            string ruta = null;
+
+            Microsoft.Office.Interop.Outlook.Application oApp = new Microsoft.Office.Interop.Outlook.Application();
+            Microsoft.Office.Interop.Outlook.MailItem oMsg = (Microsoft.Office.Interop.Outlook.MailItem)oApp.CreateItem(Microsoft.Office.Interop.Outlook.OlItemType.olMailItem);
+
+            // Encuentra el archivo más nuevo en la carpeta
+            file = directory.GetFiles().OrderByDescending(f => f.LastWriteTime).First().ToString();
+            ruta = rutaFolder + "\\" + file;
+
+            // Direcciones
+            oMsg.To = emailTo;
+            oMsg.CC = ccTo;
+
+            // Sujeto nombre del archivo y adjunta archivo
+            oMsg.Subject = file;
+            oMsg.Attachments.Add(ruta, Microsoft.Office.Interop.Outlook.OlAttachmentType.olByValue, Type.Missing, Type.Missing);
+            
+            // Cuerpo del mensaje
+            oMsg.HTMLBody = "Reporte generado con Asistente DAS. Puedes contribuir a este proyecto de código abierto en: https://github.com/RodrigoDiazC/Asistente-Das.";
+
+            oMsg.BodyFormat = Microsoft.Office.Interop.Outlook.OlBodyFormat.olFormatHTML;
+            oMsg.Display(false);
+
         }
 
         //---- Timer para notificaciones
