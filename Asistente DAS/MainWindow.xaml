@@ -81,31 +81,37 @@
                 <Image x:Name="image6" Height="20" Width="20" Source="Imagenes/icons8-secured-letter-filled-50.png"/>
             </Button>
         </Grid>
-        <ScrollViewer x:Name="scroll_Configuracion" HorizontalAlignment="Left" Height="304" Margin="0,30,0,0" VerticalAlignment="Top" Width="315" VerticalScrollBarVisibility="Auto">
-            <Grid x:Name="grid_PantallaConfiguraciones" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Auto" Height="304" VerticalAlignment="Top" >
-                <Button x:Name="button_ResetApp" Content="Resetear aplicación" HorizontalAlignment="Right" Width="138" Margin="0,256,167,0" BorderBrush="{x:Null}" Background="#FFAC4040" Foreground="White" Click="button_ResetApp_Click" Height="25" VerticalAlignment="Top"/>
+        <ScrollViewer x:Name="scroll_Configuracion" HorizontalAlignment="Left" Height="304" Margin="0,30,0,0" VerticalAlignment="Top" Width="315" VerticalScrollBarVisibility="Auto" Visibility="Hidden">
+            <Grid x:Name="grid_PantallaConfiguraciones" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Auto" Height="449.521" VerticalAlignment="Top" >
+                <Button x:Name="button_ResetApp" Content="Resetear aplicación" HorizontalAlignment="Right" Width="138" Margin="0,406.521,150,0" BorderBrush="{x:Null}" Background="#FFAC4040" Foreground="White" Click="button_ResetApp_Click" Height="25" VerticalAlignment="Top"/>
                 <Label x:Name="label1_Copy" Content="Nombre de usuario:" HorizontalAlignment="Left" Margin="10,18.996,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="16"/>
                 <Label x:Name="label1_Copy1" Content="Gerente del área:" HorizontalAlignment="Left" Margin="10,78.996,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="16"/>
-                <TextBox x:Name="textBox_NombreUsuario" Height="23" TextAlignment="Center" Margin="10,55.002,25,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
-                <TextBox x:Name="textBox_NombreGerente" Height="23" TextAlignment="Center" Margin="10,110.282,25,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
-                <Label x:Name="label_Recordar" Content="Preguntarme que hago cada: " HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" Width="211" FontSize="14"/>
-                <ComboBox x:Name="comboBox_Notificaciones" SelectedIndex="0" HorizontalAlignment="Right" Margin="0,181,25,0" VerticalAlignment="Top" Width="80">
+                <TextBox x:Name="textBox_NombreUsuario" Height="23" TextAlignment="Center" Margin="10,55.002,10,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
+                <TextBox x:Name="textBox_NombreGerente" Height="23" TextAlignment="Center" Margin="10,110.282,10,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
+                <Label x:Name="label_Recordar" Content="Preguntarme que hago cada: " HorizontalAlignment="Left" Margin="10,181.224,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" Width="195" FontSize="14" d:LayoutOverrides="VerticalAlignment"/>
+                <ComboBox x:Name="comboBox_Notificaciones" SelectedIndex="0" HorizontalAlignment="Right" Margin="0,185.38,10,0" VerticalAlignment="Top" Width="83" d:LayoutOverrides="VerticalAlignment">
                     <ComboBoxItem Content="Desactivado"/>
                     <ComboBoxItem Content="1 hora"/>
                     <ComboBoxItem Content="2 horas"/>
                     <ComboBoxItem Content="4 horas"/>
                 </ComboBox>
-                <Label x:Name="label1_Copy2" Content="Notificaciones" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top" Foreground="#FFF7F7F7" Padding="0,5,5,5" FontSize="16"/>
-                <CheckBox x:Name="checkBox_Recordatorio" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,219,0,0" Foreground="#FFFDFDFB" Width="19" Height="21"/>
-                <Label x:Name="label_Recordar_Copy" Content="Recordarme enviar el reporte" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
+                <Label x:Name="label1_Copy2" Content="Notificaciones" Margin="10,147.224,10,0" VerticalAlignment="Top" Foreground="#FFF7F7F7" Padding="0,5,5,5" FontSize="16" d:LayoutOverrides="VerticalAlignment" Background="#99474747"/>
+                <CheckBox x:Name="checkBox_Recordatorio" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="205,222.844,0,0" Foreground="#FFFDFDFB" Width="19" Height="21" RenderTransformOrigin="-0.684,0.318"/>
+                <Label x:Name="label_Recordar_Copy" Content="Recordarme enviar el reporte" HorizontalAlignment="Left" Margin="10,215.224,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333" d:LayoutOverrides="VerticalAlignment"/>
+                <Label x:Name="label1_Copy3" Content="Envío de archivo" Margin="10,248.844,10,0" VerticalAlignment="Top" Foreground="#FFF7F7F7" Padding="0,5,5,5" FontSize="16" Background="#99474747"/>
+                <TextBox x:Name="textBox_EmailTo" TextAlignment="Center" Margin="10,310.002,10,0" TextWrapping="Wrap" FontSize="16" Background="#33000000" Foreground="White" Height="23" VerticalAlignment="Top"/>
+                <Label x:Name="label_EmailTo" Content="Email de destino" HorizontalAlignment="Left" Margin="10,280.124,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
+                <TextBox x:Name="textBox_EmailCc" Height="23" TextAlignment="Center" Margin="10,367.88,10,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
+                <Label x:Name="label_EmailCopia" Content="CC (opcional)" HorizontalAlignment="Left" Margin="10,338.002,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
+                <Button x:Name="button_AcercaDe" Content="Acerca De" HorizontalAlignment="Right" Width="87" Margin="0,406.521,10,0" BorderBrush="{x:Null}" Background="#FF6A6A6A" Foreground="White" Click="button_ResetApp_Click" Height="25" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
 
             </Grid>
         </ScrollViewer>
-        <ScrollViewer x:Name="scroll_actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden" d:IsHidden="True">
+        <ScrollViewer x:Name="scroll_actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden">
             <StackPanel x:Name="grid_Actividades" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
         </ScrollViewer>
-        <Button x:Name="button_ConfAplicar" Content="Aplicar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden" d:IsHidden="True"/>
-        <Grid x:Name="grid_Bienvenida" Margin="0,30,0,36" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Visibility="Hidden" d:IsHidden="True" >
+        <Button x:Name="button_ConfAplicar" Content="Aplicar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden"/>
+        <Grid x:Name="grid_Bienvenida" Margin="0,30,0,36" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Visibility="Hidden" >
             <TextBlock x:Name="textBlock_Bienvenida" TextAlignment="Center" Text="¡Bienvenido al Asistente DAS!&#xA;&#xA; El Asistente DAS tiene un objetivo simple: Ayudarte a que jamás vuelvas a olvidar tu reporte de actividades semanal y disminuir tus posibilidades de ser despedido." Margin="10,149.08,10,29" TextWrapping="Wrap" Foreground="#FFFDFDFD" HorizontalAlignment="Center" Width="295" FontSize="14"/>
             <Button x:Name="button_ConfSiguiente" Content="Continuar" Margin="0,0,168,-36" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfSiguiente_Click"/>
             <Image x:Name="image5" Margin="120,45,120,0" Height="75" VerticalAlignment="Top" Source="logo.ico" RenderTransformOrigin="0.528,-0.169" Width="75"/>
