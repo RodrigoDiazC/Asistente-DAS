@@ -95,10 +95,10 @@
                     <ComboBoxItem Content="2 horas"/>
                     <ComboBoxItem Content="4 horas"/>
                 </ComboBox>
-                <Label x:Name="label1_Copy2" Content="Notificaciones" Margin="10,147.224,10,0" VerticalAlignment="Top" Foreground="#FFF7F7F7" Padding="0,5,5,5" FontSize="16" d:LayoutOverrides="VerticalAlignment" Background="#99474747"/>
+                <Label x:Name="label1_Copy2" Content="Notificaciones" Margin="10,147.224,10,0" VerticalAlignment="Top" Foreground="#FF9BDCE2" Padding="0,5,5,5" FontSize="16" d:LayoutOverrides="VerticalAlignment" Background="{x:Null}"/>
                 <CheckBox x:Name="checkBox_Recordatorio" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="205,222.844,0,0" Foreground="#FFFDFDFB" Width="19" Height="21" RenderTransformOrigin="-0.684,0.318"/>
                 <Label x:Name="label_Recordar_Copy" Content="Recordarme enviar el reporte" HorizontalAlignment="Left" Margin="10,215.224,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333" d:LayoutOverrides="VerticalAlignment"/>
-                <Label x:Name="label1_Copy3" Content="Envío de archivo" Margin="10,248.844,10,0" VerticalAlignment="Top" Foreground="#FFF7F7F7" Padding="0,5,5,5" FontSize="16" Background="#99474747"/>
+                <Label x:Name="label1_Copy3" Content="Envío de archivo" Margin="10,248.844,10,0" VerticalAlignment="Top" Foreground="#FF9BDCE2" Padding="0,5,5,5" FontSize="16" Background="{x:Null}"/>
                 <TextBox x:Name="textBox_EmailTo" TextAlignment="Center" Margin="10,310.002,10,0" TextWrapping="Wrap" FontSize="16" Background="#33000000" Foreground="White" Height="23" VerticalAlignment="Top"/>
                 <Label x:Name="label_EmailTo" Content="Email de destino" HorizontalAlignment="Left" Margin="10,280.124,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
                 <TextBox x:Name="textBox_EmailCc" Height="23" TextAlignment="Center" Margin="10,367.88,10,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
