@@ -103,11 +103,11 @@
                 <Label x:Name="label_EmailTo" Content="Email de destino" HorizontalAlignment="Left" Margin="10,280.124,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
                 <TextBox x:Name="textBox_EmailCc" Height="23" TextAlignment="Center" Margin="10,367.88,10,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Background="#33000000" Foreground="White"/>
                 <Label x:Name="label_EmailCopia" Content="CC (opcional)" HorizontalAlignment="Left" Margin="10,338.002,0,0" VerticalAlignment="Top" Foreground="#FFFDFDFD" Padding="0,5,5,5" FontSize="14" Width="184" RenderTransformOrigin="0.427,0.333"/>
-                <Button x:Name="button_AcercaDe" Content="Acerca De" HorizontalAlignment="Right" Width="87" Margin="0,406.521,10,0" BorderBrush="{x:Null}" Background="#FF6A6A6A" Foreground="White" Click="button_ResetApp_Click" Height="25" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+                <Button x:Name="button_AcercaDe" Content="Acerca De" HorizontalAlignment="Right" Width="87" Margin="0,406.521,10,0" BorderBrush="{x:Null}" Background="#FF6A6A6A" Foreground="White" Click="button_AcercaDe_Click" Height="25" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
 
             </Grid>
         </ScrollViewer>
-        <ScrollViewer x:Name="scroll_actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden">
+        <ScrollViewer x:Name="scroll_Actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden">
             <StackPanel x:Name="grid_Actividades" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
         </ScrollViewer>
         <Button x:Name="button_ConfAplicar" Content="Aplicar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden"/>
