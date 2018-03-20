@@ -261,5 +261,13 @@ namespace Asistente_DAS
             grid_Bienvenida.Visibility = Visibility.Collapsed;
             scroll_Configuracion.Visibility = button_ConfAplicar.Visibility = Visibility.Visible;
         }
+
+        private void button_AcercaDe_Click(object sender, RoutedEventArgs e)
+        {
+
+
+        }
     }
 }
+
+//TODO Hacer funcion para el cambio de pantallas. Al salir una que se oculten las demás y así.

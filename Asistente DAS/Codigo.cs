@@ -216,7 +216,7 @@ namespace Asistente_DAS
                 }
 
                 mWorkBook.Close(Missing.Value, Missing.Value, Missing.Value);
-                mWSheet1 = null;
+                mWSheet1  = null;
                 mWorkBook = null;
                 oXL.Quit();
                 GC.WaitForPendingFinalizers();

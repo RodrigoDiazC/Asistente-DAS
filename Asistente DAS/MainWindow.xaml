@@ -16,7 +16,7 @@
             </DoubleAnimationUsingKeyFrames>
         </Storyboard>
     </Window.Resources>
-    <Grid x:Name="grid_main" Height="370" VerticalAlignment="Top">
+    <Grid x:Name="grid_Main" Height="370" VerticalAlignment="Top">
         <Grid x:Name="grid_PantallaDeCarga" Margin="0,30,0,36" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Visibility="Hidden" d:IsHidden="True" >
             <ed:Arc x:Name="arc" ArcThickness="5" ArcThicknessUnit="Pixel" EndAngle="360" Margin="107.301,78.165,107.698,125.834" Stretch="None" StartAngle="0" RenderTransformOrigin="0.5,0.5" Height="100" Width="100" d:LayoutOverrides="LeftMargin, RightMargin">
                 <ed:Arc.RenderTransform>
@@ -107,7 +107,7 @@
 
             </Grid>
         </ScrollViewer>
-        <ScrollViewer x:Name="scroll_actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden">
+        <ScrollViewer x:Name="scroll_Actividades" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315" Visibility="Hidden">
             <StackPanel x:Name="grid_Actividades" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
         </ScrollViewer>
         <Button x:Name="button_ConfAplicar" Content="Aplicar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden"/>
