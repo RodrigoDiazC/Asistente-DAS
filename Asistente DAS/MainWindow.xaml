@@ -119,5 +119,6 @@
         <ScrollViewer x:Name="scroll_Acerca" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315">
             <StackPanel x:Name="grid_Acerca" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
         </ScrollViewer>
+        <Button x:Name="button_Aceptar" Content="Aceptar" Margin="0,0,168,0" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfAplicar_Click" Visibility="Hidden"/>
     </Grid>
 </Window>
