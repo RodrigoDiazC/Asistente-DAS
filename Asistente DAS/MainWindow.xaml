@@ -116,5 +116,8 @@
             <Button x:Name="button_ConfSiguiente" Content="Continuar" Margin="0,0,168,-36" BorderBrush="{x:Null}" Foreground="#FFE0E0E0" Cursor="Hand" ToolTip="Agregar actividad" Height="36" VerticalAlignment="Bottom" Background="#FFAC4040" BorderThickness="0" Padding="0" UseLayoutRounding="True" FontSize="14" Click="button_ConfSiguiente_Click"/>
             <Image x:Name="image5" Margin="120,45,120,0" Height="75" VerticalAlignment="Top" Source="logo.ico" RenderTransformOrigin="0.528,-0.169" Width="75"/>
         </Grid>
+        <ScrollViewer x:Name="scroll_Acerca" VerticalScrollBarVisibility="Auto" Margin="0,30,0,36" UseLayoutRounding="False" BorderThickness="0" HorizontalContentAlignment="Center" Width="315">
+            <StackPanel x:Name="grid_Acerca" Height="auto" UseLayoutRounding="False" Width="315" ScrollViewer.VerticalScrollBarVisibility="Disabled" CanVerticallyScroll="True" Margin="0"  />
+        </ScrollViewer>
     </Grid>
 </Window>

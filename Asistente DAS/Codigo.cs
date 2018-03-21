@@ -43,11 +43,11 @@ namespace Asistente_DAS
                 email_To = Properties.Settings.Default.EmailTo;
                 email_Cc = Properties.Settings.Default.EmailCc;
 
-                scroll_actividades.Visibility = Visibility.Visible;
+                scroll_Actividades.Visibility = Visibility.Visible;
             }
             else
             {
-                scroll_actividades.Visibility = scroll_Configuracion.Visibility = Visibility.Collapsed;
+                scroll_Actividades.Visibility = scroll_Configuracion.Visibility = Visibility.Collapsed;
                 grid_Bienvenida.Visibility = Visibility.Visible;
             }
         }

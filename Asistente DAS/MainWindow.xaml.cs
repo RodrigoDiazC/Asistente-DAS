@@ -173,7 +173,7 @@ namespace Asistente_DAS
             email_To = textBox_EmailTo.Text;
             email_Cc = textBox_EmailCc.Text;
 
-            scroll_actividades.Visibility = Visibility.Visible;
+            scroll_Actividades.Visibility = Visibility.Visible;
             scroll_Configuracion.Visibility = button_ConfAplicar.Visibility = Visibility.Collapsed;
 
             //--------------------------------------------------------- Fecha de TOP
@@ -251,7 +251,7 @@ namespace Asistente_DAS
             textBox_EmailTo.Text = email_To;
             textBox_EmailCc.Text = email_Cc;
 
-            scroll_actividades.Visibility = scroll_actividades.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Actividades.Visibility = scroll_Actividades.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
             scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
             button_ConfAplicar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
         }
