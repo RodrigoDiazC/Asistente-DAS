@@ -1,2 +1,9 @@
 <?xml version="1.0"?>
-<ArrayOfActividadesSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfActividadesSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ActividadesSheet>
+    <Proyecto>Nuevo Proyecto</Proyecto>
+    <Actividad>Nueva Actividad</Actividad>
+    <Observaciones />
+    <Inicio>2018-03-21T11:45:02.3062832-06:00</Inicio>
+  </ActividadesSheet>
+</ArrayOfActividadesSheet>
