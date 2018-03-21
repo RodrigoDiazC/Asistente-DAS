@@ -15,6 +15,7 @@ using System.Windows.Interop;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Xml.Serialization;
+using System.Windows.Navigation;
 
 namespace Asistente_DAS
 {
@@ -264,8 +265,24 @@ namespace Asistente_DAS
 
         private void button_AcercaDe_Click(object sender, RoutedEventArgs e)
         {
+            scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Acerca.Visibility = scroll_Configuracion.Visibility        == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_ConfAplicar.Visibility = button_ConfAplicar.Visibility     == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_AboutAceptar.Visibility = button_ConfAplicar.Visibility    == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+        }
 
+        private void button_AboutAceptar_Click(object sender, RoutedEventArgs e)
+        {
+            scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Acerca.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_ConfAplicar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_AboutAceptar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+        }
 
+        private void Hyperlink_RequestNavigate(object sender, RequestNavigateEventArgs e)
+        {
+            Process.Start(new ProcessStartInfo(e.Uri.AbsoluteUri));
+            e.Handled = true;
         }
     }
 }
