@@ -6,16 +6,22 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="Usuario" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Default</Value>
+      <Value Profile="(Default)">Ingrese nombre de usuario</Value>
     </Setting>
     <Setting Name="Gerente" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Default</Value>
+      <Value Profile="(Default)">Ingrese nombre de gerente</Value>
     </Setting>
     <Setting Name="Notificaciones" GenerateDefaultValueInCode="false" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
     <Setting Name="Recordatorio" GenerateDefaultValueInCode="false" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EmailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ejemplo@sigrama.com.mx</Value>
+    </Setting>
+    <Setting Name="EmailCc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ejemplo@sigrama.com.mx</Value>
     </Setting>
   </Settings>
 </SettingsFile>

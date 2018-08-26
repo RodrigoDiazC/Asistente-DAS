@@ -15,6 +15,7 @@ using System.Windows.Interop;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Xml.Serialization;
+using System.Windows.Navigation;
 
 namespace Asistente_DAS
 {
@@ -79,6 +80,9 @@ namespace Asistente_DAS
         private string nombre_Gerente = "Nombre de Gerente";
         private int notificaciones_modo = 0;
         private bool recordatorio_activo = false;
+        private string email_To  = "ejemplo@sigrama.com.mx";
+        private string email_Cc = "ejemplo@sigrama.com.mx";
+
 
         //---- Timer para notificaciones
         DispatcherTimer timer_Notificaciones = new DispatcherTimer();
@@ -167,8 +171,10 @@ namespace Asistente_DAS
             nombre_Gerente = textBox_NombreGerente.Text;
             notificaciones_modo = comboBox_Notificaciones.SelectedIndex;
             recordatorio_activo = (bool)checkBox_Recordatorio.IsChecked;
+            email_To = textBox_EmailTo.Text;
+            email_Cc = textBox_EmailCc.Text;
 
-            scroll_actividades.Visibility = Visibility.Visible;
+            scroll_Actividades.Visibility = Visibility.Visible;
             scroll_Configuracion.Visibility = button_ConfAplicar.Visibility = Visibility.Collapsed;
 
             //--------------------------------------------------------- Fecha de TOP
@@ -243,8 +249,10 @@ namespace Asistente_DAS
             textBox_NombreGerente.Text = nombre_Gerente;
             comboBox_Notificaciones.SelectedIndex = notificaciones_modo;
             checkBox_Recordatorio.IsChecked = recordatorio_activo;
+            textBox_EmailTo.Text = email_To;
+            textBox_EmailCc.Text = email_Cc;
 
-            scroll_actividades.Visibility = scroll_actividades.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Actividades.Visibility = scroll_Actividades.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
             scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
             button_ConfAplicar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
         }
@@ -254,5 +262,29 @@ namespace Asistente_DAS
             grid_Bienvenida.Visibility = Visibility.Collapsed;
             scroll_Configuracion.Visibility = button_ConfAplicar.Visibility = Visibility.Visible;
         }
+
+        private void button_AcercaDe_Click(object sender, RoutedEventArgs e)
+        {
+            scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Acerca.Visibility = scroll_Configuracion.Visibility        == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_ConfAplicar.Visibility = button_ConfAplicar.Visibility     == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_AboutAceptar.Visibility = button_ConfAplicar.Visibility    == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+        }
+
+        private void button_AboutAceptar_Click(object sender, RoutedEventArgs e)
+        {
+            scroll_Configuracion.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            scroll_Acerca.Visibility = scroll_Configuracion.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_ConfAplicar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+            button_AboutAceptar.Visibility = button_ConfAplicar.Visibility == Visibility.Visible ? Visibility.Collapsed : Visibility.Visible;
+        }
+
+        private void Hyperlink_RequestNavigate(object sender, RequestNavigateEventArgs e)
+        {
+            Process.Start(new ProcessStartInfo(e.Uri.AbsoluteUri));
+            e.Handled = true;
+        }
     }
 }
+
+//TODO Hacer funcion para el cambio de pantallas. Al salir una que se oculten las demás y así.

@@ -24,7 +24,8 @@ namespace Asistente_DAS
             Properties.Settings.Default["Notificaciones"] = comboBox_Notificaciones.SelectedIndex;
             Properties.Settings.Default["Recordatorio"] = (bool)checkBox_Recordatorio.IsChecked;
             Properties.Settings.Default["Configurado"] = true;
-
+            Properties.Settings.Default["EmailTo"] = email_To;
+            Properties.Settings.Default["EmailCc"] = email_Cc;
             Properties.Settings.Default.Save();
         }
 
@@ -39,12 +40,14 @@ namespace Asistente_DAS
                 nombre_Gerente = Properties.Settings.Default.Gerente;
                 notificaciones_modo = Properties.Settings.Default.Notificaciones;
                 recordatorio_activo = Properties.Settings.Default.Recordatorio;
+                email_To = Properties.Settings.Default.EmailTo;
+                email_Cc = Properties.Settings.Default.EmailCc;
 
-                scroll_actividades.Visibility = Visibility.Visible;
+                scroll_Actividades.Visibility = Visibility.Visible;
             }
             else
             {
-                scroll_actividades.Visibility = scroll_Configuracion.Visibility = Visibility.Collapsed;
+                scroll_Actividades.Visibility = scroll_Configuracion.Visibility = Visibility.Collapsed;
                 grid_Bienvenida.Visibility = Visibility.Visible;
             }
         }
@@ -213,7 +216,7 @@ namespace Asistente_DAS
                 }
 
                 mWorkBook.Close(Missing.Value, Missing.Value, Missing.Value);
-                mWSheet1 = null;
+                mWSheet1  = null;
                 mWorkBook = null;
                 oXL.Quit();
                 GC.WaitForPendingFinalizers();
@@ -252,7 +255,7 @@ namespace Asistente_DAS
                 grid_PantallaDeCarga.Visibility = Visibility.Collapsed;
                 grid_Actividades.Visibility = Visibility.Visible;
 
-                GenerateEmail("", "");
+                GenerateEmail(email_To, email_Cc);
 
             });
 
